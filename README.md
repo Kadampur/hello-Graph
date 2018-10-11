@@ -5,7 +5,7 @@ The graph data is in samplegraph.txt
 
 Follow the following steps  
  (i) Compile ReadGraph.java
- (ii) Compile ComputeClear.java
+ (ii) Compile ComputeClearing.java
  (iii) Compile and run Main.java
  
  use samplegraph.txt as the input file to test.
